@@ -1,0 +1,8 @@
+{
+  "name": "engage-360d-spin",
+  "version": "0.1.0",
+  "dependencies": {
+    "spin.js": "~2.0"
+  },
+  "private": true
+}
