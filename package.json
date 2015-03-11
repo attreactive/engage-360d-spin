@@ -4,5 +4,8 @@
   "dependencies": {
     "spin.js": "~2.0"
   },
+  "peerDependencies": {
+    "react": ">=0.11"
+  },
   "private": true
 }
